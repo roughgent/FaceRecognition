@@ -22,7 +22,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '@2fd+ge0ujba#z1jffrx-sruiq&gpp^dt@*4as-e9$gs*!fj%^'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 # Set ture when working as localhost
 
 ALLOWED_HOSTS = ["facerecogproject.herokuapp.com", '127.0.0.1']
