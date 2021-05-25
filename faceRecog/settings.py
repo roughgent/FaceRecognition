@@ -25,7 +25,7 @@ SECRET_KEY = '@2fd+ge0ujba#z1jffrx-sruiq&gpp^dt@*4as-e9$gs*!fj%^'
 DEBUG = True
 # Set ture when working as localhost
 
-ALLOWED_HOSTS = ["facerecogproject.herokuapp.com",''127.0.0.1']
+ALLOWED_HOSTS = ["facerecogproject.herokuapp.com", '127.0.0.1']
 
 # Application definition
 
